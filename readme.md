@@ -13,7 +13,7 @@ This is accomplished by sending as many requests as possible to a server in a gi
 ### Installation
 
 ```bash
-cargo install load-generator
+cargo install --git https://github.com/wcygan/load-generator
 ```
 
 ### Usage

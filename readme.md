@@ -13,7 +13,7 @@ This is accomplished by sending as many requests as possible to a server in a gi
 ### Installation
 
 ```bash
-cargo install --git https://github.com/wcygan/load-generator
+cargo install load-generator
 ```
 
 ### Usage
@@ -21,7 +21,7 @@ cargo install --git https://github.com/wcygan/load-generator
 ```
 A tool to load test a server
 
-Usage: load-generator-application [OPTIONS] --url <URL>
+Usage: ldg [OPTIONS] --url <URL>
 
 Options:
   -u, --url <URL>                  The URL to send requests to

@@ -1,5 +1,5 @@
 [workspace]
-members = ["load-generator-common", "load-generator-application"]
+members = ["load-generator-common", "load-generator"]
 
 [workspace.dependencies]
 tokio = { version = "1.24.2", features = ["full"] }
